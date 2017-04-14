@@ -1,0 +1,18 @@
+h1{
+	text-align:center;
+}
+img{
+	height:auto;
+	width:30%;
+	padding:5%;
+}
+html{
+	margin:5%;
+}
+.row{
+	text-align: center;
+}
+button{
+	margin:auto;
+	display:inline-block;
+}
