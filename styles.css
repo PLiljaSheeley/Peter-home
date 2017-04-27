@@ -1,3 +1,6 @@
+div{
+	background-color: lightblue;
+}
 h1{
 	text-align:center;
 }
@@ -8,6 +11,7 @@ img{
 }
 html{
 	margin:5%;
+	background-color: lightblue;
 }
 .row{
 	text-align: center;
@@ -15,4 +19,5 @@ html{
 button{
 	margin:auto;
 	display:inline-block;
+	width: 15%;
 }
