@@ -1,5 +1,5 @@
 # Peter-home
 
-Site to introduce myself
+Site to introduce myself, portfolio, and how to reach me
 
-npm start to start server
+Npm start to start server
