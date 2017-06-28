@@ -65,6 +65,15 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
 }
+.icon{
+  width:200px;
+  height:auto;
+    border-radius: 100%;
+}
+.profile{
+  width:200px;
+  height: auto;
+}
 /*.contact{
   background-color: #337AB7;
 }*/
