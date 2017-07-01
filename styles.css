@@ -11,7 +11,8 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  background-image: url('./images/desert.jpg');
+  background-position: center;
+  background-image: url('./images/ocean.jpg');
   text-align: center;
   color: white;
 }
@@ -33,7 +34,7 @@ header .header-content .header-content-inner hr {
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
-  color: yellow;
+  color: rgba(255, 255, 255, 0.7);
   font-size: 16px;
   margin-bottom: 50px;
 }
@@ -67,16 +68,13 @@ header .header-content .header-content-inner p {
 .icon{
   width:200px;
   height:auto;
-    border-radius: 100%;
+  border-radius: 100%;
 }
 .profile{
   width:200px;
   height: auto;
 }
-.contact{
-  background-color: #F05F40;
+html{
+  background-repeat: no-repeat;
+  background-image: url("./images/header.jpg")
 }
-
-/*.contact{
-  background-color: #337AB7;
-}*/
